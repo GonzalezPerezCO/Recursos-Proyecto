@@ -6,6 +6,6 @@ Varios de los archivos alojados en este repositorio sirven para ampliar la infor
 
 Consultar 
 
-##Manuales de Instalación.pdf
+### Manuales de Instalación.pdf
 
 para ver los componentes instalados, sistema operativo y herramientas.
